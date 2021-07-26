@@ -1,0 +1,4 @@
+What's the major difference between an Array and a Hash?
+
+Array is an ordered list, we extract its elements by its indexes.
+Hash is an unordered list of key-value pairs, we extract its values by its keys.

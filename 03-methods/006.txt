@@ -1,0 +1,2 @@
+Calling the calculate_product method with only one argument, while two are 
+required.
